@@ -60,7 +60,7 @@ function premium()
 		v.Chatted:connect(function(cht)
 			if cht:match("$kick .") then
 				if game.Players.LocalPlayer ~= v then
-					game.Players.LocalPlayer:Kick("                                Kicked by Premium.")
+					game.Players.LocalPlayer:Kick("                                Kicked by Flood")
 				end
 			end
 		
@@ -348,7 +348,7 @@ local freeze = function()
 		v.Chatted:connect(function(cht)
 			if cht:match("$kick .") then
 				if game.Players.LocalPlayer ~= v then
-					game.Players.LocalPlayer:Kick("                                Kicked by Premium.")
+					game.Players.LocalPlayer:Kick("                                Kicked by Flood.")
 				end
 			end
 		
