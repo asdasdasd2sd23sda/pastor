@@ -6,7 +6,7 @@ local StarId = {
 	[2589710571] = true,
 	[943527190] = true,
 	[244225295] = true,
-	[3323076730] = true,
+	[235434961] = true,
 	[2908771029] = true,
 	[3445918976] = true,
 	[2557134457] = true,
@@ -32,7 +32,7 @@ _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 local StaffId = {
 	[715022569] = true,
-	[517419072] = true,
+	[235434961] = true,
 	[3445918976] = true,
 }
 
